@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to aerobotics.ai
 
-You can use the [editor on GitHub](https://github.com/aerobotics-ai/aerobotics-ai.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my dream.  As a kid, I watched a lot of movies.  The common themes among them were intelligence (artificial or organic), technology (androids, military aircraft, scientific experimentation, and drones) and the expression of the will to live.  In fact, I was hooked at 3 when my mom took me to see Star Wars.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During my childhood years, I spent a lot of time building model airplanes (sometimes with my dad, sometimes with my friends and other times by myself) thinking it would be nice if they flew...especially that X-Wing Fighter!
 
-### Markdown
+As a teen, I became more interested in playing video games and sports all but forgetting my earlier childhood dream.  But one day in the 9th grade I was given the assignment of choosing a career and writing about it.  My heart knew what I wanted, but I could not express it verbally.  Then I read one of those thick 4-year college/career books and on the first page of the list of careers was Aerospace Engineering and from that point, I felt that that was what I wanted to be...sort of.  In undergrad, I followed through on that career aspiration and in Aero, but I wanted something more along the lines of Robotics Engineering or more specifically Aerial Robotics Engineering.  However, that kind of interdisciplinary major did not exist at the time.  Being an Aero I figured if I wanted to build an intelligent flying machine I needed to learn how to program, so upon graduating I took a job writing software for a few years ultimately leading me to graduate school to learn the fundamentals of computer science and artificial intelligence.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aerobotics-ai/aerobotics-ai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Even after having obtained a Master's degree in Computer Science I still had not reached my dream of building an autonomous aerial vehicle.  For a few years, after grad school, I spent the time doing adult things: getting a job, becoming a father and paying off student loans from undergrad.  However, the itch remains present, except now I understand the fundamentals of flight, computer science, and artificial intelligence.  The purpose of this site is to document my journey from revisiting those fundamentals to designing and building my aerial robot, as well as notes on maintaining this site.  Thanks for visiting.  Enjoy!
